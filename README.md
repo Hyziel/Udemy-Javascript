@@ -12,3 +12,6 @@ https://www.udemy.com/course/the-complete-web-development-bootcamp/
  
 #### Intermediate Javascript :
 * Exercise 1 : Create a love calculator with conditions and comparators
+* Exercise 2 : Leap year coding challenge - Using ifElse and comparators to create a leap year checker
+* Exercise 3 : Use arrays to check if your a person is on your guestlist
+
