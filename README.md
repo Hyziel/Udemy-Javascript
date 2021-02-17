@@ -14,4 +14,8 @@ https://www.udemy.com/course/the-complete-web-development-bootcamp/
 * Exercise 1 : Create a love calculator with conditions and comparators
 * Exercise 2 : Leap year coding challenge - Using ifElse and comparators to create a leap year checker
 * Exercise 3 : Use arrays to check if your a person is on your guestlist
-
+* Exercise 4 : FizzBuzz Challenge
+* Exercise 5 : Use arrays for a lucky draw
+* Exercise 6 : Recreate the 99 Beers song using While Loops
+* Exercise 7 : The Fibonacci Exercise
+* Dicee Challenge : Create a dice generator and use querySelectors 
